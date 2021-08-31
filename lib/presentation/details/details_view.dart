@@ -216,7 +216,9 @@ class _DetailsViewState extends State<DetailsView> {
                                                       Constants.defaultRadus /
                                                           2,
                                                   label: 'Pay',
-                                                  onPressed: () {},
+                                                  onPressed: () {
+                                                    Navigator.of(context).pop();
+                                                  },
                                                 ),
                                               ],
                                             ),

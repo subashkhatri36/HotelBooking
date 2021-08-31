@@ -48,7 +48,7 @@ class _SplashViewState extends State<SplashView> {
                 radius: Constants.defaultRadus * 2,
                 child: NormalText('Logo Here'),
               ),
-              HeaderText('Loading...'),
+              HeaderText('Design By Subash khatri..'),
               CircularProgressIndicator(),
             ],
           ),

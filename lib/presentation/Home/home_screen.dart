@@ -67,15 +67,15 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                 Container(
                     margin: EdgeInsets.symmetric(
                         horizontal: width * .03, vertical: height * .009),
-                    child: NormalText('1 Star')),
+                    child: NormalText('3 Star')),
                 Container(
                     margin: EdgeInsets.symmetric(
                         horizontal: width * .03, vertical: height * .009),
-                    child: NormalText('1 Star')),
+                    child: NormalText('5 Star')),
                 Container(
                     margin: EdgeInsets.symmetric(
                         horizontal: width * .03, vertical: height * .009),
-                    child: NormalText('1 Star')),
+                    child: NormalText('2 Star')),
                 Container(
                     margin: EdgeInsets.symmetric(
                         horizontal: width * .03, vertical: height * .009),
